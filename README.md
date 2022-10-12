@@ -17,10 +17,10 @@
   
 <div style="display: inline_block">
   <!--Javascript-->
-  <img align="center" alt="duduCMT-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="duduCMT-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   
   <!--Typescript-->
-  <img align="center" alt="duduCMT-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="duduCMT-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   
   <!--React-->
   <img align="center" alt="duduCMT-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -31,6 +31,9 @@
   <!--CSS-->
   <img align="center" alt="duduCMT-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   
+  <!--NodeJS-->
+  <img align="center" alt="duduCMT-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+          
   <!--Android-->
   <img align="center" alt="duduCMT-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg">
   
