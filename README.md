@@ -2,6 +2,7 @@
 ☄ Seja muito bem vindo ao meu GitHub! 
 
 - 🔭 Atualmente trabalho com front-end e mobile
+- 👨‍🚀 Estudando e Explorando técnicas de Pentest
 - 😄 Pronomes: ele/dele
 
 <br>
