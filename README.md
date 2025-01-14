@@ -1,9 +1,8 @@
-## E aí! Beleza? Pode me chamar de Eduardo! 
-☄ Seja muito bem vindo ao meu GitHub! 
+## Hello World!
+☄ Welcome to my Github!
 
-- 🔭 Atualmente trabalho com front-end e mobile
-- 👨‍🚀 Estudando e Explorando técnicas de Pentest
-- 😄 Pronomes: ele/dele
+- 🔭 Front-end and Mobile Developer
+- 👨‍🚀 UI Design
 
 <br>
 <div align="center">
@@ -13,7 +12,7 @@
 </div>
 <br>
   
-## Tecnologias que uso
+## My Skills
   
 <div style="display: inline_block">
   <!--Javascript-->
@@ -47,7 +46,7 @@
   <img align="center" alt="duduCMT-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
 </div>
   
-## Meus Contatos
+## Contacts
 <div> 
   <a href = "mailto:dev.eduardo.lc@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
