@@ -1,8 +1,9 @@
 ## Hello World!
 ☄ Welcome to my Github!
 
-- 🔭 Front-end and Mobile Developer
-- 👨‍🚀 UI Design
+- 🎯 Tech Lead
+- 🔭 Fullstack Developer
+- 👨‍🚀 UI and UX Design
 
 <br>
 <div align="center">
